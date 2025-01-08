@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image("neurona.jpg")
+st.image("neurona.jpg", width=400)
 # Título y descripción
 st.title("¡Hola neurona!")
 
